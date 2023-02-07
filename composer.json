@@ -18,7 +18,7 @@
 		"wiki": "https://github.com/Laravelium/laravel-feed/wiki"
 	},
 	"require": {
-    "php": ">=7.3",
+    "php": ">=8.1",
     "illuminate/support": "^9.0",
     "illuminate/filesystem": "^9.0"
 	},
